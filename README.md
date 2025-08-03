@@ -22,3 +22,10 @@ Right-to-left (RTL) layout is available for Arabic language users.
 - Python 3.x  
 - `requests` library  
 - `tkinter` (usually included with Python)
+
+---
+
+## İmage
+
+<img width="417" height="564" alt="image" src="https://github.com/user-attachments/assets/8ff16aa2-1030-4cc2-b7a0-12493f5f5006" />
+
