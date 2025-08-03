@@ -29,6 +29,12 @@ Right-to-left (RTL) layout is available for Arabic language users.
 
 <img width="540" height="727" alt="image" src="https://github.com/user-attachments/assets/811c2502-66d5-4e0f-b673-6eda4cc9ec38" />
 
+---
 
+## Support
+
+My [Discord](https://discord.gg/v2867zKfwM) channel.You can access it from here.
+
+## THANK YOU
 
 
