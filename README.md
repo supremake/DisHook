@@ -41,6 +41,8 @@ You can access the codes from the [Releases](https://github.com/supremake/DisHoo
 
 My [Discord](https://discord.gg/v2867zKfwM) channel.You can access it from here.
 
+---
+
 ## THANK YOU
 
 
