@@ -27,9 +27,9 @@ Right-to-left (RTL) layout is available for Arabic language users.
 
 ## Usage
 
-You can access the codes from the Releases section.
+You can access the codes from the [Releases](https://github.com/supremake/DisHook/releases/tag/DisHook) section.
 
---
+---
 
 ## İmage
 
