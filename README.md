@@ -25,6 +25,12 @@ Right-to-left (RTL) layout is available for Arabic language users.
 
 ---
 
+## Usage
+
+You can access the codes from the Releases section.
+
+--
+
 ## İmage
 
 <img width="540" height="727" alt="image" src="https://github.com/user-attachments/assets/811c2502-66d5-4e0f-b673-6eda4cc9ec38" />
